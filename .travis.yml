@@ -1,4 +1,4 @@
 language: go
 script:
-  - echo Hello
+  - echo test
   - env
